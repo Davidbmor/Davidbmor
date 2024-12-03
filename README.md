@@ -1,6 +1,9 @@
 ## Hi there 👋
-
-<h3> Talking about personal stuffs:</h3>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+<div aling="left"> 
+<h3 aling="left"> Talking about personal stuffs:</h3>
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
 
@@ -8,7 +11,10 @@
 
 - 💬 Ask me about anything **[here](https:#)** ! I am happy to help.
 
-- 📫 How to reach me **[Twitter](http:#)**
+- 📫 How to reach me **[Gmail](http:#)**
+
+  </div>
+  
 
 
 
@@ -46,7 +52,12 @@
      &emsp;
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     &emsp;
-  ### 💼 Proyectos:
+
+
+
+
+
+### 💼 Proyectos:
 
 - [CRUD en php de una tabla de una base de datos](https://github.com/Davidbmor/TraditionalApp.git) - CRUD Pokemon PHP
 - [Aplicación De Pokemon en Laravel](https://github.com/Davidbmor/TraditionalLaravelApp.git) - CRUD Pokemon Laravel

@@ -62,6 +62,9 @@
 - [CRUD en php de una tabla de una base de datos](https://github.com/Davidbmor/TraditionalApp.git) - CRUD Pokemon PHP
 - [Aplicación De Pokemon en Laravel](https://github.com/Davidbmor/TraditionalLaravelApp.git) - CRUD Pokemon Laravel
 - [Aplicación De subida de imagenes en laravel](https://github.com/Davidbmor/subirArchivosAppV2.git) - Subida de imagenes en laravel
+- [Aplicación De Mercado](https://github.com/Davidbmor/WallapopApp.git) - Simulacion de app mercado ("Wallapop")
+- [User App](https://github.com/Davidbmor/userAppV2.git) -  App de Gestion de usuarios 
+- [Aplicación fetch](https://github.com/Davidbmor/fetchAppv2.git) -  Fetch App
     
  
     
